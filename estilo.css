@@ -1,0 +1,91 @@
+body{
+    background: #ffffff url('fundo.png');
+    font-size: 16px Arial, Helvetica, sans-serif;
+}
+#topo{
+    background-image: url('topo.png');    
+    height: 100px;
+    width: 100%;
+}
+#principal{
+    width: 1830px;
+    color:black;
+    
+}
+#imagem{
+     max-width: 200px; 
+}
+#menu{
+    padding: 18px;
+    color: #f8f8ff;
+    text-align: right;
+    margin-right: 15%;
+}
+#conteudo{
+    background: #f8f8ff;
+    width: 1830px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+#contato{
+    align-items: center;
+    text-align: center;
+    background-attachment: fixed;
+}
+a{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: right;
+}
+
+.centralizar{
+    text-align: center;
+}
+/* Montagem do estilo em quem-somos.html */
+#motivo1{
+    background: #c0c0c0;
+    border: 1px solid gray;
+    width: 180px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    margin: 30px;
+}
+#motivo2{
+    background: #c0c0c0;
+    border: 1px solid gray;
+    width: 180px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    margin: 30px;
+}
+#motivo3{
+    background: #c0c0c0;
+    border: 1px solid gray;
+    width: 180px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    margin: 30px;
+}
+#motivo4{
+    background: #c0c0c0;
+    border: 1px solid gray;
+    width: 180px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    margin: 30px;
+}
+#motivo5{
+    background: #c0c0c0;
+    border: 1px solid gray;
+    width: 180px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    margin: 30px;
+}
